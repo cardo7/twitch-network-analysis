@@ -1,0 +1,24 @@
+# analysis
+networkx>=3.0
+pandas>=2.0
+numpy
+scipy
+matplotlib
+powerlaw
+scikit-learn
+
+# community detection (CDlib + backends for Leiden, Infomap, ANGEL)
+cdlib
+leidenalg
+python-igraph
+infomap
+angel-cd
+
+# spreading simulations
+ndlib
+
+# data collection
+requests
+python-dotenv
+
+jupyter
