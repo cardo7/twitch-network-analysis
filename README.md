@@ -1,5 +1,18 @@
 # Twitch Network Analysis
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=for-the-badge)
+![powerlaw](https://img.shields.io/badge/powerlaw-5A6B7B?style=for-the-badge)
+![CDlib](https://img.shields.io/badge/CDlib-6C5CE7?style=for-the-badge)
+![NDlib](https://img.shields.io/badge/NDlib-00B894?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyVis](https://img.shields.io/badge/PyVis-E17055?style=for-the-badge)
+![Twitch API](https://img.shields.io/badge/Twitch%20API-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+
 Final project for the **Social Network Analysis** course (University of Pisa, A.Y. 2025/2026).
 
 **Authors:** Riccardo Ranieri · Giambattista Bernardo · Pietro Gagliardi
